@@ -1,5 +1,7 @@
-### Hello!
-## I am a msc student in Sports Technology @KTH.
+# Hello!
+### My name is Anton Brink, I am a msc student in Sports Technology @KTH.
+### Previously worked as a physiotherapist in SLL and in elder care.
+### Looking to combine my experience in health care and sports with technology and to further my programming knowledge
 
 Projects I've been a part of in my master program:
 - LINK TO ACCELEROMETER
