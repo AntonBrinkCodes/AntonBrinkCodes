@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hello!
+## I am a msc student in Sports Technology @KTH.
+
+Projects I've been a part of in my master program:
+- LINK TO ACCELEROMETER
+- OTHER PROJECTS?
+
+Apps I've developed:
+-
+What I'm working on now:
+-
+
 
 <!--
 **AntonBrinkCodes/AntonBrinkCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
