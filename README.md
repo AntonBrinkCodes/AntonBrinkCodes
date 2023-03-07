@@ -9,11 +9,11 @@
 * Other projects
 
 ## Android Apps I've developed:
-* [Weather Forecast] (https://github.com/AntonBrinkCodes/WeatherForecast)
+* [Weather Forecast](https://github.com/AntonBrinkCodes/WeatherForecast)
 A simple weather app that downloads and shows weather data from SMHI based on coordinates.
-* [N-back game] (https://github.com/AntonBrinkCodes/NBack)
+* [N-back game](https://github.com/AntonBrinkCodes/NBack)
 A fun N-back memory mobile game!
-* [Asses UCM] (https://github.com/AntonBrinkCodes/Asess-UCM)
+* [Asses UCM](https://github.com/AntonBrinkCodes/Asess-UCM)
 An app intended to aid physiotherapists with diagnosing shoulder UCM. Co-developed with [Elsa Nets](https://github.com/elsanetz) and [Danny Huang](https://github.com/tyhuangdanny).
 ## What I'm working on now:
 -
