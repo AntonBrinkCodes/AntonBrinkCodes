@@ -16,7 +16,7 @@ A fun N-back memory mobile game!
 * [Asses UCM](https://github.com/AntonBrinkCodes/Asess-UCM)
 An app intended to aid physiotherapists with diagnosing shoulder UCM. Co-developed with [Elsa Nets](https://github.com/elsanetz) and [Danny Huang](https://github.com/tyhuangdanny).
 ## What I'm working on now:
-* Android application for human activity classification and evaluation from video. (no github project yet)
+* Android application for human activity classification and evaluation from video. (private Github repo as of writing)
 
 
 <!--
