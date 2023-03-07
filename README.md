@@ -3,13 +3,13 @@
 ### Previously worked as a physiotherapist in SLL and in elder care.
 ### Looking to combine my experience in health care and sports with technology and to further my programming knowledge
 
-Projects I've been a part of in my master program:
+## Projects I've been a part of in my master program:
 - LINK TO ACCELEROMETER
 - OTHER PROJECTS?
 
-Apps I've developed:
+## Apps I've developed:
 -
-What I'm working on now:
+## What I'm working on now:
 -
 
 
