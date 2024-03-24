@@ -17,7 +17,7 @@ A fun N-back memory mobile game!
 An app intended to aid physiotherapists with diagnosing shoulder UCM. Co-developed with [Elsa Nets](https://github.com/elsanetz) and [Danny Huang](https://github.com/tyhuangdanny).
 ## What I'm working on now:
 * Android application for human activity classification and evaluation from video. (private Github repo as of writing)
-
+* My master thesis project: Evaluating smartphone-based motion capture system, and improving these using ML models. [Co-developed with MoveAbility Lab @KTH]{https://github.com/AntonBrinkCodes/MovementLidar}
 
 <!--
 **AntonBrinkCodes/AntonBrinkCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
