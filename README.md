@@ -1,7 +1,7 @@
 # Hello!
-### My name is Anton Brink, I am a msc student in Sports Technology @KTH.
+### My name is Anton Brink, I am a Civil Engineer in Sports Technology & Medical Technology.
 ### Previously worked as a physiotherapist in SLL and in elder care.
-### Looking to combine my experience in health care and sports with technology and to further my programming knowledge
+### Looking to combine my experience in health care and sports with technology and to further my programming knowledge.
 
 ## Projects I've been a part of in my master program:
 * [Indicators of fatigue in football](https://github.com/AntonBrinkCodes/Indicators-of-fatigue-in-football)
