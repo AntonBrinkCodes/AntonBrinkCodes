@@ -20,7 +20,8 @@ These models are implemented in iMoCap, a iPhone application for patients and cl
 
 ## What I'm working on now:
 * Android application for human activity classification and evaluation from video. (private Github repo as of writing)
-
+* [LocalCap](https://github.com/AntonBrinkCodes/opencap-core-local/blob/videos_dynamic/README.md), a locally running version of [Opencap](https://www.opencap.ai), with accompanying custom webapp and mobile app.
+  (Currently working on extending LocalCap to work for Android devices)
 <!--
 **AntonBrinkCodes/AntonBrinkCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
