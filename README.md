@@ -8,16 +8,18 @@
   A project where we gathered and did data analysis on IMU6 attached to a football player to try to extract predictors for player fatigue
 * Other projects
 
-## Android Apps I've developed:
+## Android/Iphone Apps I've developed:
 * [Weather Forecast](https://github.com/AntonBrinkCodes/WeatherForecast)
 A simple weather app that downloads and shows weather data from SMHI based on coordinates.
 * [N-back game](https://github.com/AntonBrinkCodes/NBack)
 A fun N-back memory mobile game!
 * [Asses UCM](https://github.com/AntonBrinkCodes/Asess-UCM)
 An app intended to aid physiotherapists with diagnosing shoulder UCM. Co-developed with [Elsa Nets](https://github.com/elsanetz) and [Danny Huang](https://github.com/tyhuangdanny).
+* My master thesis project: Evaluating smartphone-based motion capture system, and improving these using ML models. [Co-developed with MoveAbility Lab @KTH](https://github.com/AntonBrinkCodes/MovementLidar)
+These models are implemented in iMoCap, a iPhone application for patients and clinicians to record and evaluate movements based on perscribed rehabilitation programs.
+
 ## What I'm working on now:
 * Android application for human activity classification and evaluation from video. (private Github repo as of writing)
-* My master thesis project: Evaluating smartphone-based motion capture system, and improving these using ML models. [Co-developed with MoveAbility Lab @KTH](https://github.com/AntonBrinkCodes/MovementLidar)
 
 <!--
 **AntonBrinkCodes/AntonBrinkCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
